@@ -1,0 +1,2001 @@
+num = int(input("Give me an  integer in between 0 and 1000 "))
+if (num == 0):
+    print("your number is 0")
+if (num == 1):
+    print("your number is 1")
+if (num == 2):
+    print("your number is 2")
+if (num == 3):
+    print("your number is 3")
+if (num == 4):
+    print("your number is 4")
+if (num == 5):
+    print("your number is 5")
+if (num == 6):
+    print("your number is 6")
+if (num == 7):
+    print("your number is 7")
+if (num == 8):
+    print("your number is 8")
+if (num == 9):
+    print("your number is 9")
+if (num == 10):
+    print("your number is 10")
+if (num == 11):
+    print("your number is 11")
+if (num == 12):
+    print("your number is 12")
+if (num == 13):
+    print("your number is 13")
+if (num == 14):
+    print("your number is 14")
+if (num == 15):
+    print("your number is 15")
+if (num == 16):
+    print("your number is 16")
+if (num == 17):
+    print("your number is 17")
+if (num == 18):
+    print("your number is 18")
+if (num == 19):
+    print("your number is 19")
+if (num == 20):
+    print("your number is 20")
+if (num == 21):
+    print("your number is 21")
+if (num == 22):
+    print("your number is 22")
+if (num == 23):
+    print("your number is 23")
+if (num == 24):
+    print("your number is 24")
+if (num == 25):
+    print("your number is 25")
+if (num == 26):
+    print("your number is 26")
+if (num == 27):
+    print("your number is 27")
+if (num == 28):
+    print("your number is 28")
+if (num == 29):
+    print("your number is 29")
+if (num == 30):
+    print("your number is 30")
+if (num == 31):
+    print("your number is 31")
+if (num == 32):
+    print("your number is 32")
+if (num == 33):
+    print("your number is 33")
+if (num == 34):
+    print("your number is 34")
+if (num == 35):
+    print("your number is 35")
+if (num == 36):
+    print("your number is 36")
+if (num == 37):
+    print("your number is 37")
+if (num == 38):
+    print("your number is 38")
+if (num == 39):
+    print("your number is 39")
+if (num == 40):
+    print("your number is 40")
+if (num == 41):
+    print("your number is 41")
+if (num == 42):
+    print("your number is 42")
+if (num == 43):
+    print("your number is 43")
+if (num == 44):
+    print("your number is 44")
+if (num == 45):
+    print("your number is 45")
+if (num == 46):
+    print("your number is 46")
+if (num == 47):
+    print("your number is 47")
+if (num == 48):
+    print("your number is 48")
+if (num == 49):
+    print("your number is 49")
+if (num == 50):
+    print("your number is 50")
+if (num == 51):
+    print("your number is 51")
+if (num == 52):
+    print("your number is 52")
+if (num == 53):
+    print("your number is 53")
+if (num == 54):
+    print("your number is 54")
+if (num == 55):
+    print("your number is 55")
+if (num == 56):
+    print("your number is 56")
+if (num == 57):
+    print("your number is 57")
+if (num == 58):
+    print("your number is 58")
+if (num == 59):
+    print("your number is 59")
+if (num == 60):
+    print("your number is 60")
+if (num == 61):
+    print("your number is 61")
+if (num == 62):
+    print("your number is 62")
+if (num == 63):
+    print("your number is 63")
+if (num == 64):
+    print("your number is 64")
+if (num == 65):
+    print("your number is 65")
+if (num == 66):
+    print("your number is 66")
+if (num == 67):
+    print("your number is 67")
+if (num == 68):
+    print("your number is 68")
+if (num == 69):
+    print("your number is 69")
+if (num == 70):
+    print("your number is 70")
+if (num == 71):
+    print("your number is 71")
+if (num == 72):
+    print("your number is 72")
+if (num == 73):
+    print("your number is 73")
+if (num == 74):
+    print("your number is 74")
+if (num == 75):
+    print("your number is 75")
+if (num == 76):
+    print("your number is 76")
+if (num == 77):
+    print("your number is 77")
+if (num == 78):
+    print("your number is 78")
+if (num == 79):
+    print("your number is 79")
+if (num == 80):
+    print("your number is 80")
+if (num == 81):
+    print("your number is 81")
+if (num == 82):
+    print("your number is 82")
+if (num == 83):
+    print("your number is 83")
+if (num == 84):
+    print("your number is 84")
+if (num == 85):
+    print("your number is 85")
+if (num == 86):
+    print("your number is 86")
+if (num == 87):
+    print("your number is 87")
+if (num == 88):
+    print("your number is 88")
+if (num == 89):
+    print("your number is 89")
+if (num == 90):
+    print("your number is 90")
+if (num == 91):
+    print("your number is 91")
+if (num == 92):
+    print("your number is 92")
+if (num == 93):
+    print("your number is 93")
+if (num == 94):
+    print("your number is 94")
+if (num == 95):
+    print("your number is 95")
+if (num == 96):
+    print("your number is 96")
+if (num == 97):
+    print("your number is 97")
+if (num == 98):
+    print("your number is 98")
+if (num == 99):
+    print("your number is 99")
+if (num == 100):
+    print("your number is 100")
+if (num == 101):
+    print("your number is 101")
+if (num == 102):
+    print("your number is 102")
+if (num == 103):
+    print("your number is 103")
+if (num == 104):
+    print("your number is 104")
+if (num == 105):
+    print("your number is 105")
+if (num == 106):
+    print("your number is 106")
+if (num == 107):
+    print("your number is 107")
+if (num == 108):
+    print("your number is 108")
+if (num == 109):
+    print("your number is 109")
+if (num == 110):
+    print("your number is 110")
+if (num == 111):
+    print("your number is 111")
+if (num == 112):
+    print("your number is 112")
+if (num == 113):
+    print("your number is 113")
+if (num == 114):
+    print("your number is 114")
+if (num == 115):
+    print("your number is 115")
+if (num == 116):
+    print("your number is 116")
+if (num == 117):
+    print("your number is 117")
+if (num == 118):
+    print("your number is 118")
+if (num == 119):
+    print("your number is 119")
+if (num == 120):
+    print("your number is 120")
+if (num == 121):
+    print("your number is 121")
+if (num == 122):
+    print("your number is 122")
+if (num == 123):
+    print("your number is 123")
+if (num == 124):
+    print("your number is 124")
+if (num == 125):
+    print("your number is 125")
+if (num == 126):
+    print("your number is 126")
+if (num == 127):
+    print("your number is 127")
+if (num == 128):
+    print("your number is 128")
+if (num == 129):
+    print("your number is 129")
+if (num == 130):
+    print("your number is 130")
+if (num == 131):
+    print("your number is 131")
+if (num == 132):
+    print("your number is 132")
+if (num == 133):
+    print("your number is 133")
+if (num == 134):
+    print("your number is 134")
+if (num == 135):
+    print("your number is 135")
+if (num == 136):
+    print("your number is 136")
+if (num == 137):
+    print("your number is 137")
+if (num == 138):
+    print("your number is 138")
+if (num == 139):
+    print("your number is 139")
+if (num == 140):
+    print("your number is 140")
+if (num == 141):
+    print("your number is 141")
+if (num == 142):
+    print("your number is 142")
+if (num == 143):
+    print("your number is 143")
+if (num == 144):
+    print("your number is 144")
+if (num == 145):
+    print("your number is 145")
+if (num == 146):
+    print("your number is 146")
+if (num == 147):
+    print("your number is 147")
+if (num == 148):
+    print("your number is 148")
+if (num == 149):
+    print("your number is 149")
+if (num == 150):
+    print("your number is 150")
+if (num == 151):
+    print("your number is 151")
+if (num == 152):
+    print("your number is 152")
+if (num == 153):
+    print("your number is 153")
+if (num == 154):
+    print("your number is 154")
+if (num == 155):
+    print("your number is 155")
+if (num == 156):
+    print("your number is 156")
+if (num == 157):
+    print("your number is 157")
+if (num == 158):
+    print("your number is 158")
+if (num == 159):
+    print("your number is 159")
+if (num == 160):
+    print("your number is 160")
+if (num == 161):
+    print("your number is 161")
+if (num == 162):
+    print("your number is 162")
+if (num == 163):
+    print("your number is 163")
+if (num == 164):
+    print("your number is 164")
+if (num == 165):
+    print("your number is 165")
+if (num == 166):
+    print("your number is 166")
+if (num == 167):
+    print("your number is 167")
+if (num == 168):
+    print("your number is 168")
+if (num == 169):
+    print("your number is 169")
+if (num == 170):
+    print("your number is 170")
+if (num == 171):
+    print("your number is 171")
+if (num == 172):
+    print("your number is 172")
+if (num == 173):
+    print("your number is 173")
+if (num == 174):
+    print("your number is 174")
+if (num == 175):
+    print("your number is 175")
+if (num == 176):
+    print("your number is 176")
+if (num == 177):
+    print("your number is 177")
+if (num == 178):
+    print("your number is 178")
+if (num == 179):
+    print("your number is 179")
+if (num == 180):
+    print("your number is 180")
+if (num == 181):
+    print("your number is 181")
+if (num == 182):
+    print("your number is 182")
+if (num == 183):
+    print("your number is 183")
+if (num == 184):
+    print("your number is 184")
+if (num == 185):
+    print("your number is 185")
+if (num == 186):
+    print("your number is 186")
+if (num == 187):
+    print("your number is 187")
+if (num == 188):
+    print("your number is 188")
+if (num == 189):
+    print("your number is 189")
+if (num == 190):
+    print("your number is 190")
+if (num == 191):
+    print("your number is 191")
+if (num == 192):
+    print("your number is 192")
+if (num == 193):
+    print("your number is 193")
+if (num == 194):
+    print("your number is 194")
+if (num == 195):
+    print("your number is 195")
+if (num == 196):
+    print("your number is 196")
+if (num == 197):
+    print("your number is 197")
+if (num == 198):
+    print("your number is 198")
+if (num == 199):
+    print("your number is 199")
+if (num == 200):
+    print("your number is 200")
+if (num == 201):
+    print("your number is 201")
+if (num == 202):
+    print("your number is 202")
+if (num == 203):
+    print("your number is 203")
+if (num == 204):
+    print("your number is 204")
+if (num == 205):
+    print("your number is 205")
+if (num == 206):
+    print("your number is 206")
+if (num == 207):
+    print("your number is 207")
+if (num == 208):
+    print("your number is 208")
+if (num == 209):
+    print("your number is 209")
+if (num == 210):
+    print("your number is 210")
+if (num == 211):
+    print("your number is 211")
+if (num == 212):
+    print("your number is 212")
+if (num == 213):
+    print("your number is 213")
+if (num == 214):
+    print("your number is 214")
+if (num == 215):
+    print("your number is 215")
+if (num == 216):
+    print("your number is 216")
+if (num == 217):
+    print("your number is 217")
+if (num == 218):
+    print("your number is 218")
+if (num == 219):
+    print("your number is 219")
+if (num == 220):
+    print("your number is 220")
+if (num == 221):
+    print("your number is 221")
+if (num == 222):
+    print("your number is 222")
+if (num == 223):
+    print("your number is 223")
+if (num == 224):
+    print("your number is 224")
+if (num == 225):
+    print("your number is 225")
+if (num == 226):
+    print("your number is 226")
+if (num == 227):
+    print("your number is 227")
+if (num == 228):
+    print("your number is 228")
+if (num == 229):
+    print("your number is 229")
+if (num == 230):
+    print("your number is 230")
+if (num == 231):
+    print("your number is 231")
+if (num == 232):
+    print("your number is 232")
+if (num == 233):
+    print("your number is 233")
+if (num == 234):
+    print("your number is 234")
+if (num == 235):
+    print("your number is 235")
+if (num == 236):
+    print("your number is 236")
+if (num == 237):
+    print("your number is 237")
+if (num == 238):
+    print("your number is 238")
+if (num == 239):
+    print("your number is 239")
+if (num == 240):
+    print("your number is 240")
+if (num == 241):
+    print("your number is 241")
+if (num == 242):
+    print("your number is 242")
+if (num == 243):
+    print("your number is 243")
+if (num == 244):
+    print("your number is 244")
+if (num == 245):
+    print("your number is 245")
+if (num == 246):
+    print("your number is 246")
+if (num == 247):
+    print("your number is 247")
+if (num == 248):
+    print("your number is 248")
+if (num == 249):
+    print("your number is 249")
+if (num == 250):
+    print("your number is 250")
+if (num == 251):
+    print("your number is 251")
+if (num == 252):
+    print("your number is 252")
+if (num == 253):
+    print("your number is 253")
+if (num == 254):
+    print("your number is 254")
+if (num == 255):
+    print("your number is 255")
+if (num == 256):
+    print("your number is 256")
+if (num == 257):
+    print("your number is 257")
+if (num == 258):
+    print("your number is 258")
+if (num == 259):
+    print("your number is 259")
+if (num == 260):
+    print("your number is 260")
+if (num == 261):
+    print("your number is 261")
+if (num == 262):
+    print("your number is 262")
+if (num == 263):
+    print("your number is 263")
+if (num == 264):
+    print("your number is 264")
+if (num == 265):
+    print("your number is 265")
+if (num == 266):
+    print("your number is 266")
+if (num == 267):
+    print("your number is 267")
+if (num == 268):
+    print("your number is 268")
+if (num == 269):
+    print("your number is 269")
+if (num == 270):
+    print("your number is 270")
+if (num == 271):
+    print("your number is 271")
+if (num == 272):
+    print("your number is 272")
+if (num == 273):
+    print("your number is 273")
+if (num == 274):
+    print("your number is 274")
+if (num == 275):
+    print("your number is 275")
+if (num == 276):
+    print("your number is 276")
+if (num == 277):
+    print("your number is 277")
+if (num == 278):
+    print("your number is 278")
+if (num == 279):
+    print("your number is 279")
+if (num == 280):
+    print("your number is 280")
+if (num == 281):
+    print("your number is 281")
+if (num == 282):
+    print("your number is 282")
+if (num == 283):
+    print("your number is 283")
+if (num == 284):
+    print("your number is 284")
+if (num == 285):
+    print("your number is 285")
+if (num == 286):
+    print("your number is 286")
+if (num == 287):
+    print("your number is 287")
+if (num == 288):
+    print("your number is 288")
+if (num == 289):
+    print("your number is 289")
+if (num == 290):
+    print("your number is 290")
+if (num == 291):
+    print("your number is 291")
+if (num == 292):
+    print("your number is 292")
+if (num == 293):
+    print("your number is 293")
+if (num == 294):
+    print("your number is 294")
+if (num == 295):
+    print("your number is 295")
+if (num == 296):
+    print("your number is 296")
+if (num == 297):
+    print("your number is 297")
+if (num == 298):
+    print("your number is 298")
+if (num == 299):
+    print("your number is 299")
+if (num == 300):
+    print("your number is 300")
+if (num == 301):
+    print("your number is 301")
+if (num == 302):
+    print("your number is 302")
+if (num == 303):
+    print("your number is 303")
+if (num == 304):
+    print("your number is 304")
+if (num == 305):
+    print("your number is 305")
+if (num == 306):
+    print("your number is 306")
+if (num == 307):
+    print("your number is 307")
+if (num == 308):
+    print("your number is 308")
+if (num == 309):
+    print("your number is 309")
+if (num == 310):
+    print("your number is 310")
+if (num == 311):
+    print("your number is 311")
+if (num == 312):
+    print("your number is 312")
+if (num == 313):
+    print("your number is 313")
+if (num == 314):
+    print("your number is 314")
+if (num == 315):
+    print("your number is 315")
+if (num == 316):
+    print("your number is 316")
+if (num == 317):
+    print("your number is 317")
+if (num == 318):
+    print("your number is 318")
+if (num == 319):
+    print("your number is 319")
+if (num == 320):
+    print("your number is 320")
+if (num == 321):
+    print("your number is 321")
+if (num == 322):
+    print("your number is 322")
+if (num == 323):
+    print("your number is 323")
+if (num == 324):
+    print("your number is 324")
+if (num == 325):
+    print("your number is 325")
+if (num == 326):
+    print("your number is 326")
+if (num == 327):
+    print("your number is 327")
+if (num == 328):
+    print("your number is 328")
+if (num == 329):
+    print("your number is 329")
+if (num == 330):
+    print("your number is 330")
+if (num == 331):
+    print("your number is 331")
+if (num == 332):
+    print("your number is 332")
+if (num == 333):
+    print("your number is 333")
+if (num == 334):
+    print("your number is 334")
+if (num == 335):
+    print("your number is 335")
+if (num == 336):
+    print("your number is 336")
+if (num == 337):
+    print("your number is 337")
+if (num == 338):
+    print("your number is 338")
+if (num == 339):
+    print("your number is 339")
+if (num == 340):
+    print("your number is 340")
+if (num == 341):
+    print("your number is 341")
+if (num == 342):
+    print("your number is 342")
+if (num == 343):
+    print("your number is 343")
+if (num == 344):
+    print("your number is 344")
+if (num == 345):
+    print("your number is 345")
+if (num == 346):
+    print("your number is 346")
+if (num == 347):
+    print("your number is 347")
+if (num == 348):
+    print("your number is 348")
+if (num == 349):
+    print("your number is 349")
+if (num == 350):
+    print("your number is 350")
+if (num == 351):
+    print("your number is 351")
+if (num == 352):
+    print("your number is 352")
+if (num == 353):
+    print("your number is 353")
+if (num == 354):
+    print("your number is 354")
+if (num == 355):
+    print("your number is 355")
+if (num == 356):
+    print("your number is 356")
+if (num == 357):
+    print("your number is 357")
+if (num == 358):
+    print("your number is 358")
+if (num == 359):
+    print("your number is 359")
+if (num == 360):
+    print("your number is 360")
+if (num == 361):
+    print("your number is 361")
+if (num == 362):
+    print("your number is 362")
+if (num == 363):
+    print("your number is 363")
+if (num == 364):
+    print("your number is 364")
+if (num == 365):
+    print("your number is 365")
+if (num == 366):
+    print("your number is 366")
+if (num == 367):
+    print("your number is 367")
+if (num == 368):
+    print("your number is 368")
+if (num == 369):
+    print("your number is 369")
+if (num == 370):
+    print("your number is 370")
+if (num == 371):
+    print("your number is 371")
+if (num == 372):
+    print("your number is 372")
+if (num == 373):
+    print("your number is 373")
+if (num == 374):
+    print("your number is 374")
+if (num == 375):
+    print("your number is 375")
+if (num == 376):
+    print("your number is 376")
+if (num == 377):
+    print("your number is 377")
+if (num == 378):
+    print("your number is 378")
+if (num == 379):
+    print("your number is 379")
+if (num == 380):
+    print("your number is 380")
+if (num == 381):
+    print("your number is 381")
+if (num == 382):
+    print("your number is 382")
+if (num == 383):
+    print("your number is 383")
+if (num == 384):
+    print("your number is 384")
+if (num == 385):
+    print("your number is 385")
+if (num == 386):
+    print("your number is 386")
+if (num == 387):
+    print("your number is 387")
+if (num == 388):
+    print("your number is 388")
+if (num == 389):
+    print("your number is 389")
+if (num == 390):
+    print("your number is 390")
+if (num == 391):
+    print("your number is 391")
+if (num == 392):
+    print("your number is 392")
+if (num == 393):
+    print("your number is 393")
+if (num == 394):
+    print("your number is 394")
+if (num == 395):
+    print("your number is 395")
+if (num == 396):
+    print("your number is 396")
+if (num == 397):
+    print("your number is 397")
+if (num == 398):
+    print("your number is 398")
+if (num == 399):
+    print("your number is 399")
+if (num == 400):
+    print("your number is 400")
+if (num == 401):
+    print("your number is 401")
+if (num == 402):
+    print("your number is 402")
+if (num == 403):
+    print("your number is 403")
+if (num == 404):
+    print("your number is 404")
+if (num == 405):
+    print("your number is 405")
+if (num == 406):
+    print("your number is 406")
+if (num == 407):
+    print("your number is 407")
+if (num == 408):
+    print("your number is 408")
+if (num == 409):
+    print("your number is 409")
+if (num == 410):
+    print("your number is 410")
+if (num == 411):
+    print("your number is 411")
+if (num == 412):
+    print("your number is 412")
+if (num == 413):
+    print("your number is 413")
+if (num == 414):
+    print("your number is 414")
+if (num == 415):
+    print("your number is 415")
+if (num == 416):
+    print("your number is 416")
+if (num == 417):
+    print("your number is 417")
+if (num == 418):
+    print("your number is 418")
+if (num == 419):
+    print("your number is 419")
+if (num == 420):
+    print("your number is 420")
+if (num == 421):
+    print("your number is 421")
+if (num == 422):
+    print("your number is 422")
+if (num == 423):
+    print("your number is 423")
+if (num == 424):
+    print("your number is 424")
+if (num == 425):
+    print("your number is 425")
+if (num == 426):
+    print("your number is 426")
+if (num == 427):
+    print("your number is 427")
+if (num == 428):
+    print("your number is 428")
+if (num == 429):
+    print("your number is 429")
+if (num == 430):
+    print("your number is 430")
+if (num == 431):
+    print("your number is 431")
+if (num == 432):
+    print("your number is 432")
+if (num == 433):
+    print("your number is 433")
+if (num == 434):
+    print("your number is 434")
+if (num == 435):
+    print("your number is 435")
+if (num == 436):
+    print("your number is 436")
+if (num == 437):
+    print("your number is 437")
+if (num == 438):
+    print("your number is 438")
+if (num == 439):
+    print("your number is 439")
+if (num == 440):
+    print("your number is 440")
+if (num == 441):
+    print("your number is 441")
+if (num == 442):
+    print("your number is 442")
+if (num == 443):
+    print("your number is 443")
+if (num == 444):
+    print("your number is 444")
+if (num == 445):
+    print("your number is 445")
+if (num == 446):
+    print("your number is 446")
+if (num == 447):
+    print("your number is 447")
+if (num == 448):
+    print("your number is 448")
+if (num == 449):
+    print("your number is 449")
+if (num == 450):
+    print("your number is 450")
+if (num == 451):
+    print("your number is 451")
+if (num == 452):
+    print("your number is 452")
+if (num == 453):
+    print("your number is 453")
+if (num == 454):
+    print("your number is 454")
+if (num == 455):
+    print("your number is 455")
+if (num == 456):
+    print("your number is 456")
+if (num == 457):
+    print("your number is 457")
+if (num == 458):
+    print("your number is 458")
+if (num == 459):
+    print("your number is 459")
+if (num == 460):
+    print("your number is 460")
+if (num == 461):
+    print("your number is 461")
+if (num == 462):
+    print("your number is 462")
+if (num == 463):
+    print("your number is 463")
+if (num == 464):
+    print("your number is 464")
+if (num == 465):
+    print("your number is 465")
+if (num == 466):
+    print("your number is 466")
+if (num == 467):
+    print("your number is 467")
+if (num == 468):
+    print("your number is 468")
+if (num == 469):
+    print("your number is 469")
+if (num == 470):
+    print("your number is 470")
+if (num == 471):
+    print("your number is 471")
+if (num == 472):
+    print("your number is 472")
+if (num == 473):
+    print("your number is 473")
+if (num == 474):
+    print("your number is 474")
+if (num == 475):
+    print("your number is 475")
+if (num == 476):
+    print("your number is 476")
+if (num == 477):
+    print("your number is 477")
+if (num == 478):
+    print("your number is 478")
+if (num == 479):
+    print("your number is 479")
+if (num == 480):
+    print("your number is 480")
+if (num == 481):
+    print("your number is 481")
+if (num == 482):
+    print("your number is 482")
+if (num == 483):
+    print("your number is 483")
+if (num == 484):
+    print("your number is 484")
+if (num == 485):
+    print("your number is 485")
+if (num == 486):
+    print("your number is 486")
+if (num == 487):
+    print("your number is 487")
+if (num == 488):
+    print("your number is 488")
+if (num == 489):
+    print("your number is 489")
+if (num == 490):
+    print("your number is 490")
+if (num == 491):
+    print("your number is 491")
+if (num == 492):
+    print("your number is 492")
+if (num == 493):
+    print("your number is 493")
+if (num == 494):
+    print("your number is 494")
+if (num == 495):
+    print("your number is 495")
+if (num == 496):
+    print("your number is 496")
+if (num == 497):
+    print("your number is 497")
+if (num == 498):
+    print("your number is 498")
+if (num == 499):
+    print("your number is 499")
+if (num == 500):
+    print("your number is 500")
+if (num == 501):
+    print("your number is 501")
+if (num == 502):
+    print("your number is 502")
+if (num == 503):
+    print("your number is 503")
+if (num == 504):
+    print("your number is 504")
+if (num == 505):
+    print("your number is 505")
+if (num == 506):
+    print("your number is 506")
+if (num == 507):
+    print("your number is 507")
+if (num == 508):
+    print("your number is 508")
+if (num == 509):
+    print("your number is 509")
+if (num == 510):
+    print("your number is 510")
+if (num == 511):
+    print("your number is 511")
+if (num == 512):
+    print("your number is 512")
+if (num == 513):
+    print("your number is 513")
+if (num == 514):
+    print("your number is 514")
+if (num == 515):
+    print("your number is 515")
+if (num == 516):
+    print("your number is 516")
+if (num == 517):
+    print("your number is 517")
+if (num == 518):
+    print("your number is 518")
+if (num == 519):
+    print("your number is 519")
+if (num == 520):
+    print("your number is 520")
+if (num == 521):
+    print("your number is 521")
+if (num == 522):
+    print("your number is 522")
+if (num == 523):
+    print("your number is 523")
+if (num == 524):
+    print("your number is 524")
+if (num == 525):
+    print("your number is 525")
+if (num == 526):
+    print("your number is 526")
+if (num == 527):
+    print("your number is 527")
+if (num == 528):
+    print("your number is 528")
+if (num == 529):
+    print("your number is 529")
+if (num == 530):
+    print("your number is 530")
+if (num == 531):
+    print("your number is 531")
+if (num == 532):
+    print("your number is 532")
+if (num == 533):
+    print("your number is 533")
+if (num == 534):
+    print("your number is 534")
+if (num == 535):
+    print("your number is 535")
+if (num == 536):
+    print("your number is 536")
+if (num == 537):
+    print("your number is 537")
+if (num == 538):
+    print("your number is 538")
+if (num == 539):
+    print("your number is 539")
+if (num == 540):
+    print("your number is 540")
+if (num == 541):
+    print("your number is 541")
+if (num == 542):
+    print("your number is 542")
+if (num == 543):
+    print("your number is 543")
+if (num == 544):
+    print("your number is 544")
+if (num == 545):
+    print("your number is 545")
+if (num == 546):
+    print("your number is 546")
+if (num == 547):
+    print("your number is 547")
+if (num == 548):
+    print("your number is 548")
+if (num == 549):
+    print("your number is 549")
+if (num == 550):
+    print("your number is 550")
+if (num == 551):
+    print("your number is 551")
+if (num == 552):
+    print("your number is 552")
+if (num == 553):
+    print("your number is 553")
+if (num == 554):
+    print("your number is 554")
+if (num == 555):
+    print("your number is 555")
+if (num == 556):
+    print("your number is 556")
+if (num == 557):
+    print("your number is 557")
+if (num == 558):
+    print("your number is 558")
+if (num == 559):
+    print("your number is 559")
+if (num == 560):
+    print("your number is 560")
+if (num == 561):
+    print("your number is 561")
+if (num == 562):
+    print("your number is 562")
+if (num == 563):
+    print("your number is 563")
+if (num == 564):
+    print("your number is 564")
+if (num == 565):
+    print("your number is 565")
+if (num == 566):
+    print("your number is 566")
+if (num == 567):
+    print("your number is 567")
+if (num == 568):
+    print("your number is 568")
+if (num == 569):
+    print("your number is 569")
+if (num == 570):
+    print("your number is 570")
+if (num == 571):
+    print("your number is 571")
+if (num == 572):
+    print("your number is 572")
+if (num == 573):
+    print("your number is 573")
+if (num == 574):
+    print("your number is 574")
+if (num == 575):
+    print("your number is 575")
+if (num == 576):
+    print("your number is 576")
+if (num == 577):
+    print("your number is 577")
+if (num == 578):
+    print("your number is 578")
+if (num == 579):
+    print("your number is 579")
+if (num == 580):
+    print("your number is 580")
+if (num == 581):
+    print("your number is 581")
+if (num == 582):
+    print("your number is 582")
+if (num == 583):
+    print("your number is 583")
+if (num == 584):
+    print("your number is 584")
+if (num == 585):
+    print("your number is 585")
+if (num == 586):
+    print("your number is 586")
+if (num == 587):
+    print("your number is 587")
+if (num == 588):
+    print("your number is 588")
+if (num == 589):
+    print("your number is 589")
+if (num == 590):
+    print("your number is 590")
+if (num == 591):
+    print("your number is 591")
+if (num == 592):
+    print("your number is 592")
+if (num == 593):
+    print("your number is 593")
+if (num == 594):
+    print("your number is 594")
+if (num == 595):
+    print("your number is 595")
+if (num == 596):
+    print("your number is 596")
+if (num == 597):
+    print("your number is 597")
+if (num == 598):
+    print("your number is 598")
+if (num == 599):
+    print("your number is 599")
+if (num == 600):
+    print("your number is 600")
+if (num == 601):
+    print("your number is 601")
+if (num == 602):
+    print("your number is 602")
+if (num == 603):
+    print("your number is 603")
+if (num == 604):
+    print("your number is 604")
+if (num == 605):
+    print("your number is 605")
+if (num == 606):
+    print("your number is 606")
+if (num == 607):
+    print("your number is 607")
+if (num == 608):
+    print("your number is 608")
+if (num == 609):
+    print("your number is 609")
+if (num == 610):
+    print("your number is 610")
+if (num == 611):
+    print("your number is 611")
+if (num == 612):
+    print("your number is 612")
+if (num == 613):
+    print("your number is 613")
+if (num == 614):
+    print("your number is 614")
+if (num == 615):
+    print("your number is 615")
+if (num == 616):
+    print("your number is 616")
+if (num == 617):
+    print("your number is 617")
+if (num == 618):
+    print("your number is 618")
+if (num == 619):
+    print("your number is 619")
+if (num == 620):
+    print("your number is 620")
+if (num == 621):
+    print("your number is 621")
+if (num == 622):
+    print("your number is 622")
+if (num == 623):
+    print("your number is 623")
+if (num == 624):
+    print("your number is 624")
+if (num == 625):
+    print("your number is 625")
+if (num == 626):
+    print("your number is 626")
+if (num == 627):
+    print("your number is 627")
+if (num == 628):
+    print("your number is 628")
+if (num == 629):
+    print("your number is 629")
+if (num == 630):
+    print("your number is 630")
+if (num == 631):
+    print("your number is 631")
+if (num == 632):
+    print("your number is 632")
+if (num == 633):
+    print("your number is 633")
+if (num == 634):
+    print("your number is 634")
+if (num == 635):
+    print("your number is 635")
+if (num == 636):
+    print("your number is 636")
+if (num == 637):
+    print("your number is 637")
+if (num == 638):
+    print("your number is 638")
+if (num == 639):
+    print("your number is 639")
+if (num == 640):
+    print("your number is 640")
+if (num == 641):
+    print("your number is 641")
+if (num == 642):
+    print("your number is 642")
+if (num == 643):
+    print("your number is 643")
+if (num == 644):
+    print("your number is 644")
+if (num == 645):
+    print("your number is 645")
+if (num == 646):
+    print("your number is 646")
+if (num == 647):
+    print("your number is 647")
+if (num == 648):
+    print("your number is 648")
+if (num == 649):
+    print("your number is 649")
+if (num == 650):
+    print("your number is 650")
+if (num == 651):
+    print("your number is 651")
+if (num == 652):
+    print("your number is 652")
+if (num == 653):
+    print("your number is 653")
+if (num == 654):
+    print("your number is 654")
+if (num == 655):
+    print("your number is 655")
+if (num == 656):
+    print("your number is 656")
+if (num == 657):
+    print("your number is 657")
+if (num == 658):
+    print("your number is 658")
+if (num == 659):
+    print("your number is 659")
+if (num == 660):
+    print("your number is 660")
+if (num == 661):
+    print("your number is 661")
+if (num == 662):
+    print("your number is 662")
+if (num == 663):
+    print("your number is 663")
+if (num == 664):
+    print("your number is 664")
+if (num == 665):
+    print("your number is 665")
+if (num == 666):
+    print("your number is 666")
+if (num == 667):
+    print("your number is 667")
+if (num == 668):
+    print("your number is 668")
+if (num == 669):
+    print("your number is 669")
+if (num == 670):
+    print("your number is 670")
+if (num == 671):
+    print("your number is 671")
+if (num == 672):
+    print("your number is 672")
+if (num == 673):
+    print("your number is 673")
+if (num == 674):
+    print("your number is 674")
+if (num == 675):
+    print("your number is 675")
+if (num == 676):
+    print("your number is 676")
+if (num == 677):
+    print("your number is 677")
+if (num == 678):
+    print("your number is 678")
+if (num == 679):
+    print("your number is 679")
+if (num == 680):
+    print("your number is 680")
+if (num == 681):
+    print("your number is 681")
+if (num == 682):
+    print("your number is 682")
+if (num == 683):
+    print("your number is 683")
+if (num == 684):
+    print("your number is 684")
+if (num == 685):
+    print("your number is 685")
+if (num == 686):
+    print("your number is 686")
+if (num == 687):
+    print("your number is 687")
+if (num == 688):
+    print("your number is 688")
+if (num == 689):
+    print("your number is 689")
+if (num == 690):
+    print("your number is 690")
+if (num == 691):
+    print("your number is 691")
+if (num == 692):
+    print("your number is 692")
+if (num == 693):
+    print("your number is 693")
+if (num == 694):
+    print("your number is 694")
+if (num == 695):
+    print("your number is 695")
+if (num == 696):
+    print("your number is 696")
+if (num == 697):
+    print("your number is 697")
+if (num == 698):
+    print("your number is 698")
+if (num == 699):
+    print("your number is 699")
+if (num == 700):
+    print("your number is 700")
+if (num == 701):
+    print("your number is 701")
+if (num == 702):
+    print("your number is 702")
+if (num == 703):
+    print("your number is 703")
+if (num == 704):
+    print("your number is 704")
+if (num == 705):
+    print("your number is 705")
+if (num == 706):
+    print("your number is 706")
+if (num == 707):
+    print("your number is 707")
+if (num == 708):
+    print("your number is 708")
+if (num == 709):
+    print("your number is 709")
+if (num == 710):
+    print("your number is 710")
+if (num == 711):
+    print("your number is 711")
+if (num == 712):
+    print("your number is 712")
+if (num == 713):
+    print("your number is 713")
+if (num == 714):
+    print("your number is 714")
+if (num == 715):
+    print("your number is 715")
+if (num == 716):
+    print("your number is 716")
+if (num == 717):
+    print("your number is 717")
+if (num == 718):
+    print("your number is 718")
+if (num == 719):
+    print("your number is 719")
+if (num == 720):
+    print("your number is 720")
+if (num == 721):
+    print("your number is 721")
+if (num == 722):
+    print("your number is 722")
+if (num == 723):
+    print("your number is 723")
+if (num == 724):
+    print("your number is 724")
+if (num == 725):
+    print("your number is 725")
+if (num == 726):
+    print("your number is 726")
+if (num == 727):
+    print("your number is 727")
+if (num == 728):
+    print("your number is 728")
+if (num == 729):
+    print("your number is 729")
+if (num == 730):
+    print("your number is 730")
+if (num == 731):
+    print("your number is 731")
+if (num == 732):
+    print("your number is 732")
+if (num == 733):
+    print("your number is 733")
+if (num == 734):
+    print("your number is 734")
+if (num == 735):
+    print("your number is 735")
+if (num == 736):
+    print("your number is 736")
+if (num == 737):
+    print("your number is 737")
+if (num == 738):
+    print("your number is 738")
+if (num == 739):
+    print("your number is 739")
+if (num == 740):
+    print("your number is 740")
+if (num == 741):
+    print("your number is 741")
+if (num == 742):
+    print("your number is 742")
+if (num == 743):
+    print("your number is 743")
+if (num == 744):
+    print("your number is 744")
+if (num == 745):
+    print("your number is 745")
+if (num == 746):
+    print("your number is 746")
+if (num == 747):
+    print("your number is 747")
+if (num == 748):
+    print("your number is 748")
+if (num == 749):
+    print("your number is 749")
+if (num == 750):
+    print("your number is 750")
+if (num == 751):
+    print("your number is 751")
+if (num == 752):
+    print("your number is 752")
+if (num == 753):
+    print("your number is 753")
+if (num == 754):
+    print("your number is 754")
+if (num == 755):
+    print("your number is 755")
+if (num == 756):
+    print("your number is 756")
+if (num == 757):
+    print("your number is 757")
+if (num == 758):
+    print("your number is 758")
+if (num == 759):
+    print("your number is 759")
+if (num == 760):
+    print("your number is 760")
+if (num == 761):
+    print("your number is 761")
+if (num == 762):
+    print("your number is 762")
+if (num == 763):
+    print("your number is 763")
+if (num == 764):
+    print("your number is 764")
+if (num == 765):
+    print("your number is 765")
+if (num == 766):
+    print("your number is 766")
+if (num == 767):
+    print("your number is 767")
+if (num == 768):
+    print("your number is 768")
+if (num == 769):
+    print("your number is 769")
+if (num == 770):
+    print("your number is 770")
+if (num == 771):
+    print("your number is 771")
+if (num == 772):
+    print("your number is 772")
+if (num == 773):
+    print("your number is 773")
+if (num == 774):
+    print("your number is 774")
+if (num == 775):
+    print("your number is 775")
+if (num == 776):
+    print("your number is 776")
+if (num == 777):
+    print("your number is 777")
+if (num == 778):
+    print("your number is 778")
+if (num == 779):
+    print("your number is 779")
+if (num == 780):
+    print("your number is 780")
+if (num == 781):
+    print("your number is 781")
+if (num == 782):
+    print("your number is 782")
+if (num == 783):
+    print("your number is 783")
+if (num == 784):
+    print("your number is 784")
+if (num == 785):
+    print("your number is 785")
+if (num == 786):
+    print("your number is 786")
+if (num == 787):
+    print("your number is 787")
+if (num == 788):
+    print("your number is 788")
+if (num == 789):
+    print("your number is 789")
+if (num == 790):
+    print("your number is 790")
+if (num == 791):
+    print("your number is 791")
+if (num == 792):
+    print("your number is 792")
+if (num == 793):
+    print("your number is 793")
+if (num == 794):
+    print("your number is 794")
+if (num == 795):
+    print("your number is 795")
+if (num == 796):
+    print("your number is 796")
+if (num == 797):
+    print("your number is 797")
+if (num == 798):
+    print("your number is 798")
+if (num == 799):
+    print("your number is 799")
+if (num == 800):
+    print("your number is 800")
+if (num == 801):
+    print("your number is 801")
+if (num == 802):
+    print("your number is 802")
+if (num == 803):
+    print("your number is 803")
+if (num == 804):
+    print("your number is 804")
+if (num == 805):
+    print("your number is 805")
+if (num == 806):
+    print("your number is 806")
+if (num == 807):
+    print("your number is 807")
+if (num == 808):
+    print("your number is 808")
+if (num == 809):
+    print("your number is 809")
+if (num == 810):
+    print("your number is 810")
+if (num == 811):
+    print("your number is 811")
+if (num == 812):
+    print("your number is 812")
+if (num == 813):
+    print("your number is 813")
+if (num == 814):
+    print("your number is 814")
+if (num == 815):
+    print("your number is 815")
+if (num == 816):
+    print("your number is 816")
+if (num == 817):
+    print("your number is 817")
+if (num == 818):
+    print("your number is 818")
+if (num == 819):
+    print("your number is 819")
+if (num == 820):
+    print("your number is 820")
+if (num == 821):
+    print("your number is 821")
+if (num == 822):
+    print("your number is 822")
+if (num == 823):
+    print("your number is 823")
+if (num == 824):
+    print("your number is 824")
+if (num == 825):
+    print("your number is 825")
+if (num == 826):
+    print("your number is 826")
+if (num == 827):
+    print("your number is 827")
+if (num == 828):
+    print("your number is 828")
+if (num == 829):
+    print("your number is 829")
+if (num == 830):
+    print("your number is 830")
+if (num == 831):
+    print("your number is 831")
+if (num == 832):
+    print("your number is 832")
+if (num == 833):
+    print("your number is 833")
+if (num == 834):
+    print("your number is 834")
+if (num == 835):
+    print("your number is 835")
+if (num == 836):
+    print("your number is 836")
+if (num == 837):
+    print("your number is 837")
+if (num == 838):
+    print("your number is 838")
+if (num == 839):
+    print("your number is 839")
+if (num == 840):
+    print("your number is 840")
+if (num == 841):
+    print("your number is 841")
+if (num == 842):
+    print("your number is 842")
+if (num == 843):
+    print("your number is 843")
+if (num == 844):
+    print("your number is 844")
+if (num == 845):
+    print("your number is 845")
+if (num == 846):
+    print("your number is 846")
+if (num == 847):
+    print("your number is 847")
+if (num == 848):
+    print("your number is 848")
+if (num == 849):
+    print("your number is 849")
+if (num == 850):
+    print("your number is 850")
+if (num == 851):
+    print("your number is 851")
+if (num == 852):
+    print("your number is 852")
+if (num == 853):
+    print("your number is 853")
+if (num == 854):
+    print("your number is 854")
+if (num == 855):
+    print("your number is 855")
+if (num == 856):
+    print("your number is 856")
+if (num == 857):
+    print("your number is 857")
+if (num == 858):
+    print("your number is 858")
+if (num == 859):
+    print("your number is 859")
+if (num == 860):
+    print("your number is 860")
+if (num == 861):
+    print("your number is 861")
+if (num == 862):
+    print("your number is 862")
+if (num == 863):
+    print("your number is 863")
+if (num == 864):
+    print("your number is 864")
+if (num == 865):
+    print("your number is 865")
+if (num == 866):
+    print("your number is 866")
+if (num == 867):
+    print("your number is 867")
+if (num == 868):
+    print("your number is 868")
+if (num == 869):
+    print("your number is 869")
+if (num == 870):
+    print("your number is 870")
+if (num == 871):
+    print("your number is 871")
+if (num == 872):
+    print("your number is 872")
+if (num == 873):
+    print("your number is 873")
+if (num == 874):
+    print("your number is 874")
+if (num == 875):
+    print("your number is 875")
+if (num == 876):
+    print("your number is 876")
+if (num == 877):
+    print("your number is 877")
+if (num == 878):
+    print("your number is 878")
+if (num == 879):
+    print("your number is 879")
+if (num == 880):
+    print("your number is 880")
+if (num == 881):
+    print("your number is 881")
+if (num == 882):
+    print("your number is 882")
+if (num == 883):
+    print("your number is 883")
+if (num == 884):
+    print("your number is 884")
+if (num == 885):
+    print("your number is 885")
+if (num == 886):
+    print("your number is 886")
+if (num == 887):
+    print("your number is 887")
+if (num == 888):
+    print("your number is 888")
+if (num == 889):
+    print("your number is 889")
+if (num == 890):
+    print("your number is 890")
+if (num == 891):
+    print("your number is 891")
+if (num == 892):
+    print("your number is 892")
+if (num == 893):
+    print("your number is 893")
+if (num == 894):
+    print("your number is 894")
+if (num == 895):
+    print("your number is 895")
+if (num == 896):
+    print("your number is 896")
+if (num == 897):
+    print("your number is 897")
+if (num == 898):
+    print("your number is 898")
+if (num == 899):
+    print("your number is 899")
+if (num == 900):
+    print("your number is 900")
+if (num == 901):
+    print("your number is 901")
+if (num == 902):
+    print("your number is 902")
+if (num == 903):
+    print("your number is 903")
+if (num == 904):
+    print("your number is 904")
+if (num == 905):
+    print("your number is 905")
+if (num == 906):
+    print("your number is 906")
+if (num == 907):
+    print("your number is 907")
+if (num == 908):
+    print("your number is 908")
+if (num == 909):
+    print("your number is 909")
+if (num == 910):
+    print("your number is 910")
+if (num == 911):
+    print("your number is 911")
+if (num == 912):
+    print("your number is 912")
+if (num == 913):
+    print("your number is 913")
+if (num == 914):
+    print("your number is 914")
+if (num == 915):
+    print("your number is 915")
+if (num == 916):
+    print("your number is 916")
+if (num == 917):
+    print("your number is 917")
+if (num == 918):
+    print("your number is 918")
+if (num == 919):
+    print("your number is 919")
+if (num == 920):
+    print("your number is 920")
+if (num == 921):
+    print("your number is 921")
+if (num == 922):
+    print("your number is 922")
+if (num == 923):
+    print("your number is 923")
+if (num == 924):
+    print("your number is 924")
+if (num == 925):
+    print("your number is 925")
+if (num == 926):
+    print("your number is 926")
+if (num == 927):
+    print("your number is 927")
+if (num == 928):
+    print("your number is 928")
+if (num == 929):
+    print("your number is 929")
+if (num == 930):
+    print("your number is 930")
+if (num == 931):
+    print("your number is 931")
+if (num == 932):
+    print("your number is 932")
+if (num == 933):
+    print("your number is 933")
+if (num == 934):
+    print("your number is 934")
+if (num == 935):
+    print("your number is 935")
+if (num == 936):
+    print("your number is 936")
+if (num == 937):
+    print("your number is 937")
+if (num == 938):
+    print("your number is 938")
+if (num == 939):
+    print("your number is 939")
+if (num == 940):
+    print("your number is 940")
+if (num == 941):
+    print("your number is 941")
+if (num == 942):
+    print("your number is 942")
+if (num == 943):
+    print("your number is 943")
+if (num == 944):
+    print("your number is 944")
+if (num == 945):
+    print("your number is 945")
+if (num == 946):
+    print("your number is 946")
+if (num == 947):
+    print("your number is 947")
+if (num == 948):
+    print("your number is 948")
+if (num == 949):
+    print("your number is 949")
+if (num == 950):
+    print("your number is 950")
+if (num == 951):
+    print("your number is 951")
+if (num == 952):
+    print("your number is 952")
+if (num == 953):
+    print("your number is 953")
+if (num == 954):
+    print("your number is 954")
+if (num == 955):
+    print("your number is 955")
+if (num == 956):
+    print("your number is 956")
+if (num == 957):
+    print("your number is 957")
+if (num == 958):
+    print("your number is 958")
+if (num == 959):
+    print("your number is 959")
+if (num == 960):
+    print("your number is 960")
+if (num == 961):
+    print("your number is 961")
+if (num == 962):
+    print("your number is 962")
+if (num == 963):
+    print("your number is 963")
+if (num == 964):
+    print("your number is 964")
+if (num == 965):
+    print("your number is 965")
+if (num == 966):
+    print("your number is 966")
+if (num == 967):
+    print("your number is 967")
+if (num == 968):
+    print("your number is 968")
+if (num == 969):
+    print("your number is 969")
+if (num == 970):
+    print("your number is 970")
+if (num == 971):
+    print("your number is 971")
+if (num == 972):
+    print("your number is 972")
+if (num == 973):
+    print("your number is 973")
+if (num == 974):
+    print("your number is 974")
+if (num == 975):
+    print("your number is 975")
+if (num == 976):
+    print("your number is 976")
+if (num == 977):
+    print("your number is 977")
+if (num == 978):
+    print("your number is 978")
+if (num == 979):
+    print("your number is 979")
+if (num == 980):
+    print("your number is 980")
+if (num == 981):
+    print("your number is 981")
+if (num == 982):
+    print("your number is 982")
+if (num == 983):
+    print("your number is 983")
+if (num == 984):
+    print("your number is 984")
+if (num == 985):
+    print("your number is 985")
+if (num == 986):
+    print("your number is 986")
+if (num == 987):
+    print("your number is 987")
+if (num == 988):
+    print("your number is 988")
+if (num == 989):
+    print("your number is 989")
+if (num == 990):
+    print("your number is 990")
+if (num == 991):
+    print("your number is 991")
+if (num == 992):
+    print("your number is 992")
+if (num == 993):
+    print("your number is 993")
+if (num == 994):
+    print("your number is 994")
+if (num == 995):
+    print("your number is 995")
+if (num == 996):
+    print("your number is 996")
+if (num == 997):
+    print("your number is 997")
+if (num == 998):
+    print("your number is 998")
+if (num == 999):
+    print("your number is 999")
